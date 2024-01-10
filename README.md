@@ -1,4 +1,2 @@
 "# TaejinBlog" 
-"# TaejinBlog" 
-"# TaejinBlog" 
-"# TaejinBlog" 
+
